@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Kaíke Dias
 
-I am 20 years old, currently working as a Full Stack Java developer at the Engineering and Agronomy Council of Piauí (CREA-PI), and I am studying Systems Analysis and Development at the Federal Institute of Piauí.
+I am 20 years old, currently working as a Full Stack Java developer at Hiperdigi, and I am studying Systems Analysis and Development at the Federal Institute of Piauí.
 
 - 🔭 I’m currently working on Full Stack development
 - 🌱 I’m currently learning SpringBoot and Flutter
