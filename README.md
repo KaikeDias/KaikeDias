@@ -3,7 +3,7 @@
 I am 20 years old, currently working as a Full Stack Java developer at Hiperdigi, and I am studying Systems Analysis and Development at the Federal Institute of Piauí.
 
 - 🔭 I’m currently working on Full Stack development
-- 🌱 I’m currently learning SpringBoot and Flutter
+- 🌱 I’m currently learning SpringBoot 
 - 📫 How to reach me: kaikedias98@gmail.com
 
 <div align="center">
