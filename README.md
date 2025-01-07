@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Kaíke Dias
 
-I am 20 years old, and I am studying Systems Analysis and Development at the Federal Institute of Piauí.
+I am 20 years old, and I'm currently am studying Systems Analysis and Development at the Federal Institute of Piauí.
 
 - 🌱 I’m currently learning SpringBoot and Vue.js
 - 📫 How to reach me: kaikedias98@gmail.com
