@@ -1,9 +1,8 @@
 ## Hi there 👋 My name is Kaíke Dias
 
-I am 20 years old, currently working as a Full Stack Java developer at Hiperdigi, and I am studying Systems Analysis and Development at the Federal Institute of Piauí.
+I am 20 years old, and I am studying Systems Analysis and Development at the Federal Institute of Piauí.
 
-- 🔭 I’m currently working on Full Stack development
-- 🌱 I’m currently learning SpringBoot 
+- 🌱 I’m currently learning SpringBoot and Vue.js
 - 📫 How to reach me: kaikedias98@gmail.com
 
 <div align="center">
@@ -16,6 +15,9 @@ I am 20 years old, currently working as a Full Stack Java developer at Hiperdigi
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">       
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="Quasar" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-plain.svg" />
+  <img align="center" alt="Bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
