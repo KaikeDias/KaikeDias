@@ -46,3 +46,8 @@ Here you’ll find code, creativity, and attention to detail.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KaikeDias&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
+
+
+<p align="center">
+  <em>I may not achieve perfection, but I never stop moving forward.</em> 
+</p>
