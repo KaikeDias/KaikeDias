@@ -20,7 +20,7 @@ Here you’ll find code, creativity, and attention to detail.
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="mailto:kaikedias98@gmail.com">
-    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-kaikedias98@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
 
