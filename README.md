@@ -1,36 +1,52 @@
-## Hi there 👋 My name is Kaíke Dias
+<h1 align="center">Hello, I'm Kaíke Dias 👋</h1>
 
-I am 20 years old, and I'm currently am studying Systems Analysis and Development at the Federal Institute of Piauí.
+<p align="center">
+  <em>Software Developer</em>
+</p>
 
-- 🌱 I’m currently learning SpringBoot and Vue.js
-- 📫 How to reach me: kaikedias98@gmail.com
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5xYTZvcGNra215eGRxc2d4bTFwazdtaDNhNWkzczV4MGo5bGI0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BMu2SwuXflOlQP8jTC/giphy.gif" width="400px" alt="commit gif looping" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/DevBatista1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikeDias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikeDias&layout=compact&langs_count=7&theme=dracula"/>
+---
+
+<p align="center">
+  I enjoy creating clean software, exploring new ideas, and learning through technology.
+Here you’ll find code, creativity, and attention to detail.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaike-dias/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">       
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Quasar" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-plain.svg" />
-  <img align="center" alt="Bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-          
-</div>
+  <a href="mailto:kaikedias98@gmail.com">
+    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
-##
+---
 
-<div>
-  <a href="https://www.linkedin.com/in/kaike-dias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:kaikedias98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/kaike_d9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+### 🧠 About Me
+
+- 🔭 Software Developer at [ETIPI]([https://en.wikipedia.org/wiki/NeXT](https://www.etipi.com.br/))
+- 🎓 Graduated in Systems Analysis and Development at IFPI
+
+---
+
+### 💻 Tech Stack Highlights
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+---
+
+### 🟩 Latest Commit Energy
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KaikeDias&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <em>Keep building. One commit at a time.</em> 🟩
+</p>
